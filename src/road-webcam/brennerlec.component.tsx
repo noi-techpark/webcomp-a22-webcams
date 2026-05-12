@@ -274,3 +274,4 @@ export class BrennerlecComponent implements StencilComponent {
     </div>);
   }
 }
+
